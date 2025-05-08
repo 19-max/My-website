@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Free Fire Updates 2025</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Free Fire Updates 2025</h1>
+    <nav>
+      <a href="#latest">Latest</a>
+      <a href="#events">Events</a>
+      <a href="#patch">Patch Notes</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="latest">
+      <h2>Latest Updates</h2>
+      <div class="card">
+        <h3>New Character: Kairos</h3>
+        <p>Special ability to revive faster and improve team HP regeneration.</p>
+      </div>
+      <div class="card">
+        <h3>New Map: Dust Island</h3>
+        <p>Mid-size desert map with new loot zones and underground tunnels.</p>
+      </div>
+    </section>
+
+    <section id="events">
+      <h2>Upcoming Events</h2>
+      <ul>
+        <li><strong>May 15:</strong> Lucky Spin Event - Get rare skins!</li>
+        <li><strong>June 1:</strong> Clash Squad Tournament Starts</li>
+      </ul>
+    </section>
+
+    <section id="patch">
+      <h2>Patch Notes v2025.1</h2>
+      <ul>
+        <li>Optimized graphics for low-end devices.</li>
+        <li>Bug fixes for ranked matchmaking.</li>
+        <li>Added new emotes and bundles.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Free Fire News Fan Site</p>
+  </footer>
+</body>
+</html>
